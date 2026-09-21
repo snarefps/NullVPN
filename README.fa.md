@@ -14,7 +14,9 @@
 
 [![Latest release](https://img.shields.io/github/v/release/snarefps/NullVPN?style=for-the-badge&color=4c7dff&label=release)](https://github.com/snarefps/NullVPN/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/snarefps/NullVPN/total?style=for-the-badge&color=2ea043)](https://github.com/snarefps/NullVPN/releases)
-[![Platforms](https://img.shields.io/badge/platform-Windows%20%7C%20Android-555?style=for-the-badge)](#download)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#download)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#download)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#download)
 [![License](https://img.shields.io/badge/license-Proprietary%20freeware-8250df?style=for-the-badge)](LICENSE)
 [![Telegram](https://img.shields.io/badge/Telegram-ZeroNullex-26a5e4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZeroNullex)
 
