@@ -11,7 +11,7 @@
 
 # NullVPN
 
-**A free, fast and simple Xray client for Windows and Android.**
+**A free, fast and simple Xray client for Windows and Android and Linux and macOS and Ios.**
 No ads. No accounts. No tracking. Nothing to buy.
 
 [![Latest release](https://img.shields.io/github/v/release/snarefps/NullVPN?style=for-the-badge&color=4c7dff&label=release)](https://github.com/snarefps/NullVPN/releases/latest)
