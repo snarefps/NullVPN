@@ -9,7 +9,7 @@
 
 # NullVPN
 
-<p dir="rtl"><b>یک کلاینت Xray رایگان، سریع و ساده برای ویندوز و اندروید.</b><br>
+<p dir="rtl"><b>یک کلاینت Xray رایگان، سریع و ساده برای ویندوز و اندروید و لینوکس و مک و ios.</b><br>
 نه تبلیغ، نه حساب کاربری، نه ردیابی، نه چیزی برای خریدن.</p>
 
 [![Latest release](https://img.shields.io/github/v/release/snarefps/NullVPN?style=for-the-badge&color=4c7dff&label=release)](https://github.com/snarefps/NullVPN/releases/latest)
