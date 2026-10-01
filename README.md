@@ -157,7 +157,7 @@ NullVPN stands on the shoulders of these projects. Each keeps its own license.
 
 | Project | Used for | License |
 |---|---|---|
-| [Xray-core](https://github.com/XTLS/Xray-core) | The tunnel engine | MPL-2.0 |
+| [Xray-core(patterniha)](https://github.com/patterniha/Xray-core) | The tunnel engine | MPL-2.0 |
 | [Aether](https://github.com/CluvexStudio/Aether) | WARP, MASQUE and Tor | AGPL-3.0 |
 | [Zeptun](https://github.com/Noisemux/zeptun) | TUN | MIT License |
 | [Wintun](https://www.wintun.net) | Windows TUN adapter | Prebuilt binaries license |
